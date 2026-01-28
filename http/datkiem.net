@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<title>Đạt Net | Trang thông tin</title>
+<style>
+body{margin:0;font-family:Arial;background:#f4f4f4}
+.header{background:#c4161c;color:white;padding:15px}
+.nav{background:#222}
+.nav a{color:white;padding:14px 16px;display:inline-block;text-decoration:none}
+.nav a:hover{background:#444}
+.container{padding:20px;background:white;margin:20px}
+.footer{background:#222;color:#ccc;text-align:center;padding:10px}
+</style>
+</head>
+<body>
+
+<div class="header">
+<h1>ĐẠT NET</h1>
+<p>Trang thông tin – Bài tập HTML</p>
+</div>
+
+<div class="nav">
+<a href="index.html">Trang chủ</a>
+<a href="taixiu.html">Tài Xỉu</a>
+<a href="socdia.html">Sóc Đĩa</a>
+<a href="sicbo.html">Sicbo</a>
+<a href="banca.html">Bắn Cá</a>
+<a href="loikhuyen.html">Lời khuyên</a>
+</div>
+
+<div class="container">
+<h2>Giới thiệu</h2>
+<p>
+Đây là website mang tính học tập, mô phỏng giao diện trang tin tức,
+nhằm cảnh báo và cung cấp thông tin về mặt trái của các trò chơi cờ bạc.
+</p>
+
+<p><b>4 ô hình ảnh (bạn tự chèn ảnh):</b></p>
+<p>[ Hình 1 ] [ Hình 2 ] [ Hình 3 ] [ Hình 4 ]</p>
+</div>
+
+<div class="footer">
+© 2026 Đạt Net – Nội dung mang tính giáo dục
+</div>
+
+</body>
+</html>
